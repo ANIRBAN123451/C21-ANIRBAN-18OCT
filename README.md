@@ -1,1 +1,2 @@
-# C21-ANIRBAN-18OCT
+# collisionAlgorithm
+Algorithm to detect collision between two objects
